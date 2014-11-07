@@ -18,3 +18,9 @@
                                      board[i, j].Image = pb4;
                                     
                                  }
+                                 else if (apply[i,j] == 13)
+                                 {
+                                    board[i,j].Image = pb4;
+                                 
+                                 
+                                 }
